@@ -1,4 +1,4 @@
-# Memory-Replacement-Algoritm-Desktop-Application
+# Memory-Replacement-Algorithm-Desktop-Application
 
 This C# project aims to solve main memory problems by simulate some of the storage allocation and memory replacement algorithms in the main memory such as:
 1) allocating using :
